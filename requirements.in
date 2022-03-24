@@ -68,7 +68,7 @@ django-cors-headers
 # ---
 
 # --- OAuth
-Authlib==0.12
+Authlib==1.0.0
 # ---
 
 # --- Oss2
