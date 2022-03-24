@@ -312,8 +312,6 @@ jmespath==0.10.0
     # via
     #   aliyun-python-sdk-core
     #   aliyun-python-sdk-core-v3
-langdetect==1.0.9
-    # via -r requirements/../requirements.in
 lxml==4.8.0
     # via
     #   -r requirements/../requirements.in
@@ -424,8 +422,6 @@ pyparsing==2.4.7
     # via
     #   httplib2
     #   packaging
-pyphen==0.12.0
-    # via -r requirements/../requirements.in
 python-dateutil==2.8.2
     # via
     #   -r requirements/../requirements.in
@@ -502,7 +498,6 @@ six==1.15.0
     #   gtts
     #   httplib2shim
     #   isodate
-    #   langdetect
     #   oauth2client
     #   oss2
     #   protobuf
@@ -519,8 +514,6 @@ soupsieve==2.0.1
     # via beautifulsoup4
 sqlparse==0.3.1
     # via django
-suds-py3==1.4.1.0
-    # via zhconvert
 tablib[html,ods,xls,xlsx,yaml]==3.0.0
     # via django-import-export
 tenacity==8.0.1
@@ -562,8 +555,6 @@ yt-dlp==2022.3.8.2
     # via -r requirements/../requirements.in
 zeep==4.0.0
     # via googleads
-zhconvert==0.1.10
-    # via -r requirements/../requirements.in
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools

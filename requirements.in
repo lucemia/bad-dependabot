@@ -50,11 +50,6 @@ PyGithub==1.55
 cachetools
 # ---
 
-# --- NLP
-langdetect
-zhconvert
-Pyphen
-# ---
 
 # --- speech
 
