@@ -1,4 +1,154 @@
 
+# from genv 1.0
+django-configurations
+django-enumfields
+django-extensions
+django-hashedfilenamestorage
+django-log-request-id
+django-storages[google]
+pillow
+slack-sdk
+
+# ----  Web UI
+# django-hijack allows superusers to hijack (=login as) and work on behalf of another user.
+# https://pypi.python.org/pypi/django-hijack
+django-hijack
+
+djangorestframework
+djangorestframework-bulk
+
+django-webpack-loader
+django-taggit
+
+django-filter
+
+django-mysql
+django-cache-memoize
+django-3-jet
+django-organizations
+django-hashid-field
+django-fsm
+# ----
+
+# --- User Behavior Admin
+django-admin-rangefilter
+# ---
+
+# AdOps Noticiation
+google-cloud-error-reporting
+
+# --- System
+tenacity
+schematics
+django-polymorphic
+pydantic
+memoization
+httpx
+httplib2shim
+yt_dlp
+PyGithub==1.55
+cachetools
+# ---
+
+# --- NLP
+langdetect
+zhconvert
+Pyphen
+# ---
+
+# --- speech
+
+# Manipulate audio with an simple and easy high level interface
+pydub
+
+# Google Cloud Speech API client library
+google-cloud-texttospeech
+
+# gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate's text-to-speech API
+gTTS
+# ---
+
+# --- Channel API
+django-cors-headers
+# ---
+
+# --- OAuth
+Authlib==0.12
+# ---
+
+# --- Oss2
+oss2
+cos-python-sdk-v5
+# --
+
+# --- Date
+python-dateutil
+# ---
+
+# --- Google Marketplace
+google-auth>=1.16.0
+google-api-python-client
+google-cloud
+google-cloud-pubsub==2.11.0
+google-cloud-translate
+PyJWT>=2.0
+# ---
+
+# --- migrations
+django-cursor-pagination
+# ---
+
+lxml
+beautifulsoup4
+
 pyarrow
 numpy
 coreapi
+
+pygsheets
+
+google-cloud-vision  # for generating focal points in AMP Story
+
+django-waffle # feature flag
+
+# --- gchannel
+django-json-widget
+aliyun-python-sdk-core-v3==2.13.33
+cos-python-sdk-v5
+google-cloud-datastore
+# dailymotion
+dailymotion
+# for AD sharing
+google-cloud-bigquery
+
+django-simple-history
+googleads==31.0.0
+
+django-import-export
+xlutils
+jinja2
+# request 2.25.0 will raise Exception https://github.com/livingbio/gchannel/issues/1311#issuecomment-765814012
+requests==2.27.1
+oauth2client
+
+# for host
+django-hosts
+
+# swagger
+drf-yasg
+
+# --- Story
+amp-renderer
+ffprobe-python
+
+# trello
+py-trello
+
+# openai
+openai
+
+# facebook sdk
+facebook-business==12.0.1
+
+# pillow related
+piexif
